@@ -1,6 +1,6 @@
 # DZ_Resume
 # Hi, I'm Sergei 👋
-I'm an advenet, hunter, gatherer, fisherman, sower. I don't know anything about the computer and web.
+I'm an adventurer, hunter, gatherer, fisherman, sower. I don't know anything about the computer and web.
 ### Фото
 
 
