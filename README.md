@@ -15,14 +15,16 @@ I'm an adventurer, hunter, gatherer, fisherman, sower. I don't know anything abo
 ### Опыт работы
 
 Проводник по маршрутам "Сусанин"
-Трактарист
-Комбайнер
-Ловец
 
-| Command | Description |
+
+
+
+| Место работы | Период |
 | --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
+| `Проводник по маршрутам "Сусанин"` | 1 раз |
+| `Трактарист` | 1 год |
+| `Комбайнер"` | 2 года |
+| `Ловец птиц` | до первого птеродактеля|
 
 ### Хобби
 *   В свободное время работаю  
