@@ -19,6 +19,10 @@ I'm an adventurer, hunter, gatherer, fisherman, sower. I don't know anything abo
 Комбайнер
 Ловец
 
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
 
 ### Хобби
 *   В свободное время работаю  
