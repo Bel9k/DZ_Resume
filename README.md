@@ -3,6 +3,7 @@
 I'm an adventurer, hunter, gatherer, fisherman, sower. I don't know anything about the computer and web.
 ### Фото
 ![Ny davai]([https://github.com/ctv-software/1648721913_16-kartinkof-club-p-kartinki-smeshnie-pokhod-16.jpg](https://github.com/Bel9k/DZ_Resume/blob/main/1648721913_16-kartinkof-club-p-kartinki-smeshnie-pokhod-16.jpg))
+![1648721913_16-kartinkof-club-p-kartinki-smeshnie-pokhod-16](https://github.com/Bel9k/DZ_Resume/assets/75277745/b6b97aba-c40f-4a97-b27b-bc3b864fef04)
 
 ### Образование
 *   Высшая школа при призеденте по огородным вопросам и природным красотам
